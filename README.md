@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranavati Patil</h1>
-<h3 align="center">A passionate frontend developer from India Aspiring Full Stack Developer | BTech Computer Engg. | NodeJS | React Js |</h3>
+<h3 align="center"> Aspiring Full Stack Developer | BTech Computer Engg. | NodeJS | React Js |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavati-patil&label=Profile%20views&color=0e75b6&style=flat" alt="pranavati-patil" /> </p>
 
